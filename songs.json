@@ -1,0 +1,101 @@
+[
+  {
+    "id": "9",
+    "title": "Kallu Kawal",
+    "artist": "Lala Kala",
+    "album": "Desi Hits",
+    "albumCover": "https://s.saregama.tech/image/c/fw_485/4/62/c5/do-pal_ott_1440_1763633158.jpg",
+    "coverUrl": "https://s.saregama.tech/image/c/fw_485/4/62/c5/do-pal_ott_1440_1763633158.jpg",
+    "songUrl": "https://koshalworld.com/siteuploads/files/sfd110/54639/Pal%20Pal(KoshalWorld.Com).mp3",
+    "duration": "3:28",
+    "dateAdded": "2026-02-26"
+  },
+  {
+    "id": "8",
+    "title": "Little Idea",
+    "artist": "Benjamin Tissot",
+    "album": "Jazz Collection",
+    "albumCover": "/images/cover2.jpg",
+    "coverUrl": "/images/cover4.jpg",
+    "songUrl": "https://www.bensound.com/bensound-music/bensound-littleidea.mp3",
+    "duration": "2:49",
+    "dateAdded": "2026-02-25"
+  },
+  {
+    "id": "7",
+    "title": "Jazzy Frenchy",
+    "artist": "Benjamin Tissot",
+    "album": "Jazz Collection",
+    "albumCover": "/images/cover2.jpg",
+    "coverUrl": "/images/cover3.jpg",
+    "songUrl": "https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3",
+    "duration": "1:44",
+    "dateAdded": "2026-02-24"
+  },
+  {
+    "id": "6",
+    "title": "Happy Rock",
+    "artist": "Benjamin Tissot",
+    "album": "Chill Lounge",
+    "albumCover": "/images/cover5.jpg",
+    "coverUrl": "/images/cover1.jpg",
+    "songUrl": "https://www.bensound.com/bensound-music/bensound-happyrock.mp3",
+    "duration": "1:45",
+    "dateAdded": "2026-02-23"
+  },
+  {
+    "id": "5",
+    "title": "Dreams",
+    "artist": "Benjamin Tissot",
+    "album": "Chill Lounge",
+    "albumCover": "/images/cover5.jpg",
+    "coverUrl": "/images/cover5.jpg",
+    "songUrl": "https://www.bensound.com/bensound-music/bensound-dreams.mp3",
+    "duration": "3:30",
+    "dateAdded": "2026-02-22"
+  },
+  {
+    "id": "4",
+    "title": "Creative Minds",
+    "artist": "Benjamin Tissot",
+    "album": "Electronic Beats",
+    "albumCover": "/images/cover3.jpg",
+    "coverUrl": "/images/cover4.jpg",
+    "songUrl": "https://www.bensound.com/bensound-music/bensound-creativeminds.mp3",
+    "duration": "2:27",
+    "dateAdded": "2026-02-20"
+  },
+  {
+    "id": "3",
+    "title": "Evolution",
+    "artist": "Benjamin Tissot",
+    "album": "Electronic Beats",
+    "albumCover": "/images/cover3.jpg",
+    "coverUrl": "/images/cover3.jpg",
+    "songUrl": "https://www.bensound.com/bensound-music/bensound-evolution.mp3",
+    "duration": "2:25",
+    "dateAdded": "2026-02-18"
+  },
+  {
+    "id": "2",
+    "title": "Sunny",
+    "artist": "Benjamin Tissot",
+    "album": "Acoustic Vibes",
+    "albumCover": "/images/cover1.jpg",
+    "coverUrl": "/images/cover2.jpg",
+    "songUrl": "https://www.bensound.com/bensound-music/bensound-sunny.mp3",
+    "duration": "2:20",
+    "dateAdded": "2026-02-15"
+  },
+  {
+    "id": "1",
+    "title": "Acoustic Breeze",
+    "artist": "Benjamin Tissot",
+    "album": "Acoustic Vibes",
+    "albumCover": "/images/cover1.jpg",
+    "coverUrl": "/images/cover1.jpg",
+    "songUrl": "https://www.bensound.com/bensound-music/bensound-acousticbreeze.mp3",
+    "duration": "2:37",
+    "dateAdded": "2026-02-10"
+  }
+]
