@@ -1,5 +1,16 @@
 [
   {
+    "id": "10",
+    "title": "Mogambo Rawal",
+    "artist": "Sonu Monu",
+    "album": "Desi Hits",
+    "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/ab/04/77ab04bf-612e-dcad-62b0-3f54a4d07899/199282279065_cover.jpg/600x600bf-60.jpg",
+    "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/ab/04/77ab04bf-612e-dcad-62b0-3f54a4d07899/199282279065_cover.jpg/600x600bf-60.jpg",
+    "songUrl": "https://koshalworld.com/siteuploads/files/sfd110/54639/Pal%20Pal(KoshalWorld.Com).mp3",
+    "duration": "3:28",
+    "dateAdded": "2026-02-26"
+  },
+  {
     "id": "9",
     "title": "Kallu Kawal",
     "artist": "Lala Kala",
