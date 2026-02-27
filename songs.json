@@ -78,13 +78,13 @@
   },
   {
     "id": "3",
-    "title": "Evolution",
-    "artist": "Benjamin Tissot",
-    "album": "Electronic Beats",
-    "albumCover": "/images/cover3.jpg",
-    "coverUrl": "/images/cover3.jpg",
-    "songUrl": "https://www.bensound.com/bensound-music/bensound-evolution.mp3",
-    "duration": "2:25",
+    "title": "Dam Mast Mast",
+    "artist": "Nusrat Fateh Ali Khan",
+    "album": "Eternal Qawwali & Sufi Classics",
+    "albumCover": "https://res.cloudinary.com/dqpzskdrd/image/upload/v1772208482/ab67616d00001e02cc10f196eb6868c94183bbc7_bdsgyb.jpg",
+    "coverUrl": "https://res.cloudinary.com/dqpzskdrd/image/upload/v1772208482/ab67616d00001e02cc10f196eb6868c94183bbc7_bdsgyb.jpg",
+    "songUrl": "https://res.cloudinary.com/dqpzskdrd/video/upload/v1772208362/Dam_20Mast_20Mast_20-_20Nusrat_20Fateh_20Ali_20Khan_n0x7qz.m4a",
+    "duration": "14:07",
     "dateAdded": "2026-02-18"
   },
   {
