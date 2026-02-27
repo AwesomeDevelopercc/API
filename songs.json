@@ -89,13 +89,13 @@
   },
   {
     "id": "2",
-    "title": "Sunny",
-    "artist": "Benjamin Tissot",
-    "album": "Acoustic Vibes",
-    "albumCover": "/images/cover1.jpg",
-    "coverUrl": "/images/cover2.jpg",
-    "songUrl": "https://www.bensound.com/bensound-music/bensound-sunny.mp3",
-    "duration": "2:20",
+    "title": "Dam Dam Ali Ali Kar",
+    "artist": "Nusrat Fateh Ali Khan",
+    "album": "Eternal Qawwali & Sufi Classics",
+    "albumCover": "https://res.cloudinary.com/dqpzskdrd/image/upload/v1772206608/ab67616d0000b27317fc16bcfac78700f7188524_rmfygp.jpg",
+    "coverUrl": "https://res.cloudinary.com/dqpzskdrd/image/upload/v1772206608/ab67616d0000b27317fc16bcfac78700f7188524_rmfygp.jpg",
+    "songUrl": "https://res.cloudinary.com/dqpzskdrd/video/upload/v1772208168/Dam_Dam_Ali_Ali_Kar_qbn5xe.mp3",
+    "duration": "21:42",
     "dateAdded": "2026-02-15"
   },
   {
