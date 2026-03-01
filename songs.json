@@ -45,13 +45,13 @@
   },
   {
     "id": "6",
-    "title": "Happy Rock",
-    "artist": "Benjamin Tissot",
-    "album": "Chill Lounge",
-    "albumCover": "/images/cover5.jpg",
-    "coverUrl": "/images/cover1.jpg",
-    "songUrl": "https://www.bensound.com/bensound-music/bensound-happyrock.mp3",
-    "duration": "1:45",
+    "title": "Tere Bin Nahin Lagda",
+    "artist": "Nusrat Fateh Ali Khan",
+    "album": "Ultimate Qawwali Collection",
+    "albumCover": "https://res.cloudinary.com/dhcftsmrb/image/upload/v1772384023/ab67616d0000b273c27233b77b4e2263f2755ec4_ep09vz.jpg",
+    "coverUrl": "https://res.cloudinary.com/dhcftsmrb/image/upload/v1772384023/ab67616d0000b273c27233b77b4e2263f2755ec4_ep09vz.jpg",
+    "songUrl": "https://res.cloudinary.com/dhcftsmrb/video/upload/v1772384417/Tere_20Bin_20Nahin_20Lagda_20-_20Original_20-_20Nusrat_20Fateh_20Ali_20Khan_djatma.m4a",
+    "duration": "07:20",
     "dateAdded": "2026-02-23"
   },
   {
